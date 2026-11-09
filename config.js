@@ -4,7 +4,7 @@
    CHEIE: trebuie să fie identică cu CHEIE din Cod_Drive.gs.
    CLASA: clasa precompletată în fișe. */
 window.FISE_CONFIG = {
-  TRIMITERE_URL: "",
+  TRIMITERE_URL: "https://script.google.com/macros/s/AKfycby1COJfWNjc-df_53IYSxt8FJtochuAJ3GXzFIoKo9bftrUazN4s55F43AcyVrPcn1fYg/exec",
   CHEIE: "ixd-2026",
   CLASA: "a IX-a D"
 };
